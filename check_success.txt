@@ -1,0 +1,681 @@
+Rare Sword - require(03099697999).load("SYNO666")
+Rainbow Titan - require(03099691224).load("SYNO666")
+Eraser - require(03099667517).load("SYNO666")
+Vape - require(03099678440).load("SYNO666")
+Dualecider - require(2790149731):Run('SYNO666')
+Scary ambient(by me lol) - require(03099579132).load("SYNO666")
+lOsT hOpE - require(3098076859).load("SYNO666")
+Lost Bye Bye - require(03099474099).load("SYNO666")
+- require(03095160836).load("SYNO666")
+YOU NEED JESUS - require(3086965141):executeModule("SYNO666")
+Mr.Pixels - require(2995020929):Fire("oof","SYNO666)
+require(03095105955).load("SYNO666")
+Pizza Guy - require(02980464351).load("SYNO666")
+Darth Vader - require(02980473200).load("SYNO666")
+Drunk Guy - require(03087849096).load("SYNO666")
+Purple Guy - require(03087845888).load("SYNO666")
+Ice Cream - require(3087708111).load("SYNO666")
+wHAT ANOTHER ONE - require(03029193386):Fire("SYNO666")
+Elo Blasio - require(2891645338).sans('undertale','"SYNO666")
+Jojo Boie - require(3034302901):Fire("SYNO666")
+WYD - require(2851043168).load("SYNO666")
+TopKEK - require(2609384717).load("SYNO666")
+Unanchor all - require(03066959022):Fire("SYNO666")
+PUBG Pan - require(03078332852):Fire("SYNO666")
+Insanity (C Throw head | T omg) - require(2787111216):Run('SYNO666')
+SworD OmGG!11 - require(2972237186).load("SYNO666")
+Quantom Rewritten (Press P for commands) - require(3048207279):Fire('kermitwashere,ok','SYNO666')
+Pumpkin - require(3049265208).load("SYNO666")
+Ragdoll pan - require(2965793312):Fire'SYNO666'
+Big Smoke - require(3020580481).load("SYNO666")
+Gaster v2 - require(03055189528):Fire('magic', 'SYNO666')
+Glitchtale Sans - require(03055204441):Fire('magic', 'SYNO666')
+Ali - require(03058494498):Fire('wowbitch', 'SYNO666')
+Lustris V2 Sword - require(03043920983).load("SYNO666")
+Edited Clock - require(03044614752).isabean("SYNO666")
+Pharaoh - require(03040190745):Fire('ok', 'SYNO666')
+Force Choke Press F - require(03040161634).load("SYNO666")
+Banisher Gun - require(03036310824):Fire("SYNO666")
+Adventure Gun - require(03040142902).load("SYNO666")
+Ravager From Another World - require(03040216295):Fire('ok', 'SYNO666')
+Twin Beast - require(03044605468).load("SYNO666")
+Anti Virus - require(03014436659):Fire("SYNO666")
+OP Wings - require(2974865618).load("SYNO666")
+Wind - require(3049279453).load("SYNO666")
+Deathspace gun (converted by me) - require(3044932459).load("SYNO666")
+Big ban - require(2594357090).bban("SYNO666")
+Tornado - require(03090451296).load("SYNO666","ok")
+i don't know - require(3047598236).load("SYNO666")
+Dual Rainbow Swords (no damage but cool) - require(3049247133).load("SYNO666")
+Gun (no damage) - require(3047570984).load("SYNO666")
+Galaxy titan (converted by me) - require(3044815598).load("SYNO666")
+c00l kids mml admin (best) - require(3043952668).MMLHax("SYNO666","mmlhax")
+Mr.byebye - require(2595582545).mbye("SYNO666")
+Nel Sword - require(03036813100):Fire('ok',"SYNO666")
+Cop - require(2965948588):Fire'SYNO666'
+ahhh fresh meat - require(3033793706):Fire("SYNO666")
+OP Sword v2 - require(2972237186).load("SYNO666")
+Pee - require(2972136307).load("SYNO666")
+Lenny - require(2972140055).load("SYNO666")
+Frostmaestro - require(03029184882):Fire("SYNO666")
+OP Sword - require(2974887540).load("SYNO666")
+UTGV2 Leak - require(3032789276):Start("SYNO666","AAA")
+Mustard Gas - require(3034350356):Fire("SYNO666")
+Blight - require(03032553216):Ayy('SYNO666',YoFatAss)
+Cream - require(03029623677):Fire("SYNO666")
+Jihad - require(03009637137):Fire("SYNO666")
+Smite - require(03032530303):Ayy('SYNO666',YoFatAss)
+Smite Green - require(03032545610):Ayy('SYNO666',YoFatAss)
+Vuxul Forest - require(02999259749):Fire("SYNO666")
+galaxy titan - require(02996640215):Fire("SYNO666")
+Super Hungry McNoobington - require(2972165308).load("SYNO666")
+GhossDeeri Titan - require(02996649066):Fire("SYNO666")
+Sans meme titan - require(02996631394):Fire("SYNO666")
+Orange Titan - require(02996616591):Fire("SYNO666")
+Shacklusters's Knife - require(02976158688):Fire("SYNO666")
+Galaxy Glitcher - require(03032833847):Fire("SYNO666")
+Duel Ultima - require(03037197815):Fire('ok', 'SYNO666')
+World Eater - require(03030699117):Ayy('SYNO666',YoFatAss)
+Golden Gun - require(02999251492):Fire("SYNO666")
+Van: require(2973851516).load("Victim") 
+Shedletsky - require(02985469082):Fire("SYNO666")
+Baby nelf - require(02982788874):Fire("SYNO666")
+Giga Vanta - require(02982754216):Fire("SYNO666")
+Chain Magician - require(02999312168):Fire("SYNO666") 
+Dex Explorer - require(3032468625):Fire("SYNO666")
+Buster XTerminators - require(02990100969):Fire("SYNO666")
+Noob Bat - require(3037388211).load("SYNO666") --Press X to equip tool
+Neptunian V - require(03036869449):Fire('ok', 'SYNO666')
+Powerfull Circle Ground Breaker Gauntlet - require(03033019849):Fire("SYNO666")
+Dark Eccentric(musicremovedLOL) - require(02982823714):Fire("SYNO666")
+Kaerin - require(02985585381):Fire("SYNO666")
+Scythe require(02976955177):Fire("SYNO666")
+bong pong - require(02976165861):Fire("SYNO666")
+Rare MML admin - require(2808676257):hack'SYNO666'
+op sw0rd - require(03036820492):Fire('ok', 'SYNO666')
+Suicide gun - require(3023538289).load("SYNO666")
+require(2861672947):Fire("SYNO666") -- Memeus v2.5
+require(2861694480):Fire("SYNO666") -- ink monster
+require(2861723416):Fire("SYNO666") -- WAOV2
+require(2861780653):Fire("SYNO666") -- studio
+require(2861818882):Fire("SYNO666") -- big boi
+require(2861843468):Fire("SYNO666") -- some gun kid (its cool)
+require(2883841783):Fire("SYNO666") -- Super mario
+require(2884020362):Fire("SYNO666") -- Reaper
+require(2884027944):Fire("SYNO666") -- Gomu Powers
+require(2884046764):Fire("SYNO666") -- Creterisk Banhammer
+require(2884064708):Fire("SYNO666") -- Scanning Device
+require(2884102879):Fire("SYNO666") -- Star Platinum
+require(2884125095):Fire("SYNO666") -- Nirite
+require(2884157093):Fire("SYNO666") -- Gale Fighter
+require(2884164311):Fire("SYNO666") -- Parkour (need walls for this)
+require(2884173673):Fire("SYNO666") -- Shedletsky Rage
+require(2884182226):Fire("SYNO666") -- Maddox
+require(2884189262):Fire("SYNO666") -- Video powers
+require(2884196270):Fire("SYNO666") -- Infinite
+require(2884206218):Fire("SYNO666") -- big daddy
+Noob Switcher V2 - require(03099386833).load("SYNO666")
+True Hero Ultima - require(03036813100):Fire('ok', 'SYNO666')
+I don't know admin - require(2848219801):Fire('kermitwashere,ok','SYNO666')
+Purple Heart Sword - require(03036884709):Fire('ok', 'SYNO666') 
+Star glitcher - require(2930987220).load('SYNO666')
+Banisher Gun V.0 - require(03036310824):Fire("SYNO666")
+Hat Kid - require(03036298160):Fire("SYNO666")
+Xyphon Stone Hammer - require(03036276038):Fire("SYNO666")
+Some random GUI - require(2904213233):Fire('SYNO666','i baked you a pie')
+Xester - require(2918747265).load("SYNO666")
+jump on the C A A C - require(2966615277):Fire("SYNO666")
+Krystal Dance - require(2881162369):Fire('SYNO666','i baked you a pie')
+Killbot - require(2954028244).load("SYNO666")
+Meteor Power - require(2967655899).load("SYNO666") 
+The Glitch - require(2967664291).load("SYNO666") 
+Kartic - require(2967687879).load("SYNO666")
+Shackluster wheelies - require(2967700018).load("SYNO666")  
+Internal War - require(2967724627).load("SYNO666")
+Dominus Corona - require(2967742797).load("SYNO666")
+require(3023953976).load("SYNO666") -- CreteriskBan Hammer
+require(3024044769).load("SYNO666") -- ShackLuster's BanHammer
+require(3024569233).load("SYNO666") -- ToadRoast
+require(3024624301).load("SYNO666") -- Pandora 
+require(3024848196).load("SYNO666") -- Illuminati
+require(3024874104).load("SYNO666") --  Dual Ultima
+require(3024941794).load("SYNO666") -- Draw script
+require(3024959054).load("SYNO666") -- God's abandoned daugher
+require(3024043748):Start("SYNO666","AAA") -- Gear stuff (detain, taze, molotov)
+require(2992183083):Fire("SYNO666") -- RunicTunes
+require(2992203195):Fire("SYNO666") -- TrigorMortis
+require(2992217896):Fire("SYNO666") --  Horse
+require(2992242058):Fire("SYNO666") -- AWM
+require(2992280097):Fire("SYNO666") --  Ban hammer
+require(2992285145):Fire("SYNO666") -- Proteus
+require(2992289083):Fire("SYNO666") -- Scp 178
+require(2992306347):Fire("SYNO666") -- meme dances
+require(2992309678):Fire("SYNO666") -- Astronaut 13
+require(2992330335):Fire("SYNO666") -- Kirito blades
+require(2992336852):Fire("SYNO666") -- Banisher infinite
+require(2992342114):Fire("SYNO666") -- AK
+require(2992345670):Fire("SYNO666") -- Flaming sythe
+require(2910377270).load"SYNO666" -- Nebula Star Glitcher (pornhubmode)
+require(2571067295).load("SYNO666") -- F3X Tools
+require(2856028839):Fire('SYNO666','i baked you a pie') -- v a p o r w a v e gun
+Grab Knife V1: require(2836693511):Fire('SYNO666','i baked you a pie')
+Grab Knife V2: require(2845941230):Fire('SYNO666','i baked you a pie')
+Grab Knife V3: require(2829943043):Run('SYNO666','i baked you a pie')
+Uganda Knuckles: require(2849713774):Fire('SYNO666','i baked you a pie')
+Meme Jevil: require(2855997192):Fire('SYNO666','i baked you a pie')
+Voodoo Child Meme: require(2858514503):Fire('SYNO666','i baked you a pie')
+Trap Rifle: require(2858526948):Fire('SYNO666','i baked you a pie')
+Boom X4: require(2830670878):Run('SYNO666','i baked you a pie')
+Darkage Wristbands: require(2841203226):Fire('SYNO666','i baked you a pie')
+Hell's Door: require(2841174713):Fire('SYNO666','i baked you a pie')
+John Doe: require(2841156534):Fire('SYNO666','i baked you a pie')
+Doki Doki DIE: require(2849585171):Fire('SYNO666','i baked you a pie')
+Deadeye: require(2849593796):Fire('SYNO666','i baked you a pie')
+Angel: require(2849601715):Fire('SYNO666','i baked you a pie')
+Da Warden: require(2849623031):Fire('SYNO666','i baked you a pie')
+require(2841156534):Fire('SYNO666','i baked you a pie') -- John Doe module
+Insanity Powers: require(2787111216):Run('SYNO666','i baked you a pie')
+Sin Unleashed: require(2787132106):Run('SYNO666','i baked you a pie')
+Dualecider: require(2790149731):Run('SYNO666','i baked you a pie')
+Unexpected Item: require(2796959576).Run()
+Voodoo Child: require(2797271382):Run('SYNO666','i baked you a pie')
+Kermit Gui: require(2797382794):Kermit('SYNO666')
+IS GONE!!: require(2800498919):Run('SYNO666','i baked you a pie')
+Country Roads Admin: require(2808676257):hack'SYNO666'
+Gun Giver: require(2823974237).giveGuns'SYNO666'
+Psychocider: require(2866649197):Fire('SYNO666','i baked you a pie')
+Stupid GUI: require(2904213233):Fire('SYNO666','i baked you a pie')
+khols admin epix edit: require(522666193).giveAdmin("SYNO666")
+Star Glitcher   working: require(2930987220).load('SYNO666')
+spectrum glitcher wokring: require(2844773931).load("SYNO666")
+Koolaid Man: require(2923173766):Kermit('SYNO666',game.JobId)
+Xester: require(2918747265).load("SYNO666")
+Krystal Dance V2: require(2881162369):Fire('SYNO666','i baked you a pie')
+Memeus V3: require(2881262129):Fire('SYNO666','i baked you a pie')
+Kermit Chathax: require(2906086283):Fire('SYNO666','PsevQrhKhxNxNcf')
+Cart: require(2945393344).load"SYNO666"
+Rick And Morty Remote: require(2944367975).load"SYNO666"
+Pen: require(2913342850).load"SYNO666"
+Pokeball: require(2945268608).load"SYNO666"
+Cop: require(2874956884):Fire("SYNO666") 
+Scp 106: require(2913616665).load("SYNO666") 
+Eyo-Zen: require(2965943657):Fire("SYNO666")
+Agent Agony: require(2877501109):Fire("SYNO666")
+Rifle: require(2908373119):Fire("SYNO666","i baked you a pie")
+Golden Spinning Clock: require(2956258470).load("SYNO666")
+Ban Hammer: require(2953959989).load("SYNO666")
+Reaper V2: require(2954013343).load("SYNO666")
+Killbot: require(2954028244).load("SYNO666")
+Rainbow Sword/Knife: require(2954081775).load("SYNO666")
+BloxWatch: require(2954138784).load("SYNO666")
+Void Boss: require(2954172081).load("SYNO666")
+Dual Pink Guns: require(2954190022).load("SYNO666")
+Ender: require(2966080890):Fire("SYNO666")
+RuinEX: require(2966133043):Fire("SYNO666")
+Inked Monster: require(2966186555):Fire("SYNO666")
+Chara X[SOMETIMES GLITCHY]: require(2966195744):Fire("SYNO666")
+Huge Baseplate: require(2944212977).loadmap()
+Cloud Visualizer: require(2966240496):Fire("SYNO666")
+Absylum V2: require(2966286498):Fire("SYNO666")
+Cube Of Polaris[useless]: require(2966359198):Fire("SYNO666")
+Plague Doctor: require(2966334796):Fire("SYNO666")
+Rocketeer: require(2966449101):Fire("SYNO666")
+Lunar Gauntlet:require(2966463800):Fire("SYNO666")
+Aura Katana: require(2966514820):Fire("SYNO666")
+Super Sonic Running: require(2966563614):Fire("SYNO666")
+Hands purple projectile shooting: require(2966580162):Fire("SYNO666")
+SCP-999 GHOST[CAN'T MOVE JUST RESPAWN]: require(2966604558):Fire("SYNO666")
+Jump in the caac[looses time track]:require(2966615277):Fire("SYNO666")
+Bullet Bill[RESPAWN AFTER USE]: require(2966631086):Fire("SYNO666")
+Heavy[Broken]: require(2966638096):Fire("SYNO666")
+OP AIR MAGIC [WONT KILL OTHERS]:require(2966766781):Fire("SYNO666")
+Hokuto shinken: require(2966795270):Fire("SYNO666")
+The Box: require(2966790795):Fire("SYNO666")
+Dark Sword, Shield: require(2966786815):Fire("SYNO666")
+Noob: require(2969429312):Fire("SYNO666")
+Caducus: require(2969642892):Fire("SYNO666")
+Inferno: require(2969919470):Fire("SYNO666")
+God Slayer: require(2969861340):Fire("SYNO666")
+Agent Wheseker: require(2969940144):Fire("SYNO666")
+Video Power: require(2969906143):Fire("SYNO666")
+Pan: require(2965793312):Fire'SYNO666'
+Gorrupt Vectorist: require(2967640429).load("SYNO666")
+Meteor Powers: require(2967655899).load("SYNO666")
+The Glitch: require(2967664291).load("SYNO666") 
+Kartic: require(2967687879).load("SYNO666")
+Shackluster wheelies: require(2967700018).load("SYNO666")  
+Internal War: require(2967724627).load("SYNO666")
+Dominus Corona: require(2967742797).load("SYNO666")
+500 Pound Ball: require(2967750712).load("SYNO666")
+Baldi [PRESS F]: require(2967798014).load("SYNO666")
+Skull Kid: require(2967848153).load("SYNO666")
+Zamazu: require(2971448618):Fire("SYNO666")
+Blue Titan: require(2971509487).load("SYNO666")
+Red Titan: require(2974204001).load("SYNO666")
+Ravenger: require(2971559360).load("SYNO666") 
+Nuclear Gun: require(2974012915).load("SYNO666")
+Golden Gun: require(2977809408):Fire("SYNO666")
+Shinobi Armor: require(2974055072).load("SYNO666")
+Zeus Staff: require(2974181326).load("SYNO666") 
+Green Claws: require(2974223397).load("SYNO666") 
+JOJO Girl?: require(2975155038).load("SYNO666")
+Allah Akbar: require(2974869441).load("SYNO666")
+Bleach: require(2975480225).load("SYNO666")
+The World Gauntlets: require(2975213751).load("SYNO666")
+Red Blood Scythe: require(2971800799).load("SYNO666")
+Assasin's Creed Gauntlet: require(2971859278).load("SYNO666")
+require(2920346640).load"SYNO666" - blue scythe
+require(2920356282).load"SYNO666" - LAZOR sniper
+require(2920373744).load"SYNO666" - Zerioth Recreated
+require(2920382269).load"SYNO666" - Shotgun with wings
+require(2751513564).load"SYNO666" - Grenade
+require(2609384717).load"SYNO666" - Topkek 3.0
+require(2918747265).load"SYNO666" - Xester(the card guy lol)
+require(2856360953).load"SYNO666" - Memeus V2
+require(2855602591).load"SYNO666" - Doritos
+require(2831237761).load"SYNO666" - Minigun
+require(2871277680).load"SYNO666" - Noob that eats
+require(2855989248).load"SYNO666" - Memeus V1
+require(2946634514).load"SYNO666" - Caducus the Fallen God
+require(2945922105).load"SYNO666" - Sniper
+require(2870923100).load"SYNO666" - Reaper
+require(2946965085).load"SYNO666" - Nuke
+require(522666193).giveAdmin"SYNO666" - Epix
+require(519455802).giveAdmin"SYNO666" - Kohls
+require(2113801730).load"SYNO666" - Noot
+require(2603308233).load"SYNO666" - Bike
+require(2654011167).load() - Mexican wall
+Screamer - require(03091272839).load("SYNO666")
+require(2673009791).load"SYNO666" - Killbot
+require(2845325548).uwu(game.Players.SYNO666) - Trap Rifle
+require(2845358736).uwu(game.Players.SYNO666) - Monika
+require(2845370647).uwu(game.Players.SYNO666) - CKBackup Cop
+require(2845835890).ooga"SYNO666" - Demon
+require(2845906776).ooga"SYNO666" - Red sword
+require(2845929020).ooga"SYNO666" - John Doe
+require(2847912217).load"SYNO666" - gunjouner
+require(2847934044).load"SYNO666" - pennywise
+require(2847950761).load"SYNO666" - drone
+require(2847970827).load"SYNO666" - voodoo child
+require(2850994438).load"SYNO666" - MLG Gun
+require(2851024356).load"SYNO666" - Topkeke Arms 2.0
+require(2851050332).load"SYNO666" - Sans
+require(2852336223).load"SYNO666" - Star Glitcher (like the 3th time that i put star glitcher)
+require(2852366537).load"SYNO666" - Noobicider
+require(2852378277).load"SYNO666" - Fangirl Killer(Genocider Edit)
+require(2858525380).load"SYNO666" - PUBG Pan
+require(2883339055).bruh("xdxdxd","owo uwu owo","SYNO666") - Laser Guns
+require(2883353470).lolXD("sad boi","SYNO666") - the cursed hand
+require(2883368151):Fire("weird flex","but ok","SYNO666") - 6 swords
+require(2885143717).thinking("so","guys","we","did","it","SYNO666") - Grab Knife V1
+require(2885169621).dontcare("n0b","SYNO666") - Blazing heart sword
+require(2985627889):Fire("name")  Anime figure (unstable)
+require(2976158688):Fire("name") - gives knife and invisiblility
+require(2976134335):Fire("name") - dope rainbow assasin
+require(2985476695):Fire("name") - give 2 ice daggers
+require(2982804376):Fire("name") - ghost katana
+require(2976961024):Fire("name") - unfinished (lol)
+require(3028746195):Fire("name") - Toxic (figure)
+require(2976197623):Fire("name") - Big sword reskin
+require(2985566005):Fire("name")  - green weirdo
+require(2982739867):Fire("name") - partick LOL
+require(2985449344):Fire("name") - wand and knife
+require(2985590407):Fire("name") - The lost devil (rare)
+require(2985582507):Fire("name") -  Dope gold katana
+require(2984105885):Fire("name") - remove tool
+require(2985635046):Fire("name") - weird magican
+require(2982719207):Fire("name") - doll attacker
+require(2985585381):Fire("name") - thicc swords
+require(2982754216):Fire("name") - puts you in a giant
+require(3020775219).load("name") - Super armor
+require(3034137012).load("name") - Understandable
+require(2957362872).load("name") - The sun is a deadly laser
+require(3020600970).load("name")  - Lutris slit in half
+require(3121209289).load("name") - Press E twice and see what happens
+require(3014808003).load("name") - Anti - Skid
+require(3034117009).load("name") - spammer
+require(3023752138).load("name") - anti furry killer
+require(3034167050).load("name")  - Traincar is what i call it
+require(3034126221).load("name") - thw warlord
+require(3034139962).load("name")  - Ender
+require(3014712597).load("name") - toothless
+require(3057728162).load("name") - Working Gui (kinda Rare)
+require(3014775946).load("name") - Assasin girl
+require(3034170395).load("name") - the saint
+require(3023653097).load("name") - Free admin
+require(3034107757).load("name") - Edited
+require(3055314233).load("name")  - Working flamethrower
+require(3034113391).load("name") - Terraria
+require(3034157192).load("name") - Gltiches ur avatar weirdly
+require(3017853700).load("name") - Eyo-Zen
+require(2954081775).load("name") - Rainbow sword
+require(3117546674):Fire('Chixart2') script for Gunjourer
+require(3117564747):Fire('Chixart2') script for Magic Power
+require(3117661544):Fire('Chixart2') script for Dual Ultima
+require(3117669110):Fire('Chixart2') script for a Titan (broken)
+require(3117679218):Fire('Chixart2') script for god and bad cop
+require(3117682928):Fire('Chixart2') script for Glitch Master
+require(3117687124):Fire('Chixart2')script for Brutal Overlord
+require(3117694773):Fire('Chixart2') script for ???
+require(3117697757):Fire('Chixart2') script for ???
+require(3117706978):Fire('Chixart2') script for Nebula (borken)
+require(3117712774):Fire('Chixart2') script for ???
+require(3117717032):Fire('Chixart2') script for John Wik
+require(3117721105):Fire('Chixart2') script for Karmapange
+require(3117564747):Fire('Chixart2') script for Magic power
+Grab Knife V1: require(2836693511):Fire('Chixart2','i baked you a pie')
+Grab Knife V2: require(2845941230):Fire('Chixart2','i baked you a pie')
+Grab Knife V3: require(2829943043):Run('Chixart2','i baked you a pie')
+ShotGun - require(03114598550):Fire("Chixart2")
+Rare Sword - require(03099697999).load("Chixart2")
+Rainbow Titan - require(03099691224).load("Chixart2")
+Eraser - require(03099667517).load("Chixart2")
+Vape - require(03099678440).load("Chixart2")
+Dualecider - require(2790149731):Run('Chixart2')
+Scary ambient(by me lol) - require(03099579132).load("Chixart2")
+lOsT hOpE - require(3098076859).load("Chixart2")
+Lost Bye Bye - require(03099474099).load("Chixart2")
+kys - require(03095160836).load("Chixart2")
+YOU NEED JESUS - require(3086965141):executeModule("Chixart2")
+Mr.Pixels - require(2995020929):Fire("oof","Chixart2)
+require(03095105955).load("Chixart2")
+Pizza Guy - require(02980464351).load("Chixart2")
+A GUI - require(3058559294).load("Chixart2")
+Darth Vader - require(02980473200).load("Chixart2")
+Drunk Guy - require(03087849096).load("Chixart2")
+Purple Guy - require(03087845888).load("Chixart2")
+Ice Cream - require(3087708111).load("Chixart2")
+wHAT ANOTHER ONE - require(03029193386):Fire("Chixart2")
+Elo Blasio - require(2891645338).sans('undertale','"Chixart2")
+Jojo Boie - require(3034302901):Fire("Chixart2")
+WYD - require(2851043168).load("Chixart2")
+TopKEK - require(2609384717).load("Chixart2")
+Unanchor all - require(03066959022):Fire("Chixart2")
+PUBG Pan - require(03078332852):Fire("Chixart2")
+Insanity (C Throw head | T omg) - require(2787111216):Run('Chixart2')
+SworD OmGG!11 - require(2972237186).load("Chixart2")
+Quantom Rewritten (Press P for commands) - require(3048207279):Fire('kermitwashere,ok','Chixart2')
+Pumpkin - require(3049265208).load("Chixart2")
+Ragdoll pan - require(2965793312):Fire'Chixart2'
+Big Smoke - require(3020580481).load("Chixart2")
+Gaster v2 - require(03055189528):Fire('magic', 'Chixart2')
+Glitchtale Sans - require(03055204441):Fire('magic', 'Chixart2')
+Ali - require(03058494498):Fire('wowbitch', 'Chixart2')
+Lustris V2 Sword - require(03043920983).load("Chixart2")
+Edited Clock - require(03044614752).isabean("Chixart2")
+Pharaoh - require(03040190745):Fire('ok', 'Chixart2')
+Force Choke Press F - require(03040161634).load("Chixart2")
+Banisher Gun - require(03036310824):Fire("Chixart2")
+Adventure Gun - require(03040142902).load("Chixart2")
+Ravager From Another World - require(03040216295):Fire('ok', 'Chixart2')
+Twin Beast - require(03044605468).load("Chixart2")
+Anti Virus - require(03014436659):Fire("Chixart2")
+OP Wings - require(2974865618).load("Chixart2")
+Wind - require(3049279453).load("Chixart2")
+Deathspace gun (converted by me) - require(3044932459).load("Chixart2")
+Big ban - require(2594357090).bban("Chixart2")
+Tornado - require(03090451296).load("Chixart2","ok")
+i don't know - require(3047598236).load("Chixart2")
+Dual Rainbow Swords (no damage but cool) - require(3049247133).load("Chixart2")
+Gun (no damage) - require(3047570984).load("Chixart2")
+Galaxy titan (converted by me) - require(3044815598).load("Chixart2")
+c00l kids mml admin (best) - require(3043952668).MMLHax("Chixart2","mmlhax")
+Mr.byebye - require(2595582545).mbye("Chixart2")
+Nel Sword - require(03036813100):Fire('ok',"Chixart2")
+Cop - require(2965948588):Fire'Chixart2'
+ahhh fresh meat - require(3033793706):Fire("Chixart2")
+OP Sword v2 - require(2972237186).load("Chixart2")
+Pee - require(2972136307).load("Chixart2")
+Lenny - require(2972140055).load("Chixart2")
+Frostmaestro - require(03029184882):Fire("Chixart2")
+OP Sword - require(2974887540).load("Chixart2")
+UTGV2 Leak - require(3032789276):Start("Chixart2","AAA")
+Mustard Gas - require(3034350356):Fire("Chixart2")
+Blight - require(03032553216):Ayy('Chixart2',YoFatAss)
+Cream - require(03029623677):Fire("Chixart2")
+Jihad - require(03009637137):Fire("Chixart2")
+Smite - require(03032530303):Ayy('Chixart2',YoFatAss)
+Smite Green - require(03032545610):Ayy('Chixart2',YoFatAss)
+Vuxul Forest - require(02999259749):Fire("Chixart2")
+galaxy titan - require(02996640215):Fire("Chixart2")
+Super Hungry McNoobington - require(2972165308).load("Chixart2")
+GhossDeeri Titan - require(02996649066):Fire("Chixart2")
+Sans meme titan - require(02996631394):Fire("Chixart2")
+Orange Titan - require(02996616591):Fire("Chixart2")
+Shacklusters's Knife - require(02976158688):Fire("Chixart2")
+Galaxy Glitcher - require(03032833847):Fire("Chixart2")
+Duel Ultima - require(03037197815):Fire('ok', 'Chixart2')
+World Eater - require(03030699117):Ayy('Chixart2',YoFatAss)
+Golden Gun - require(02999251492):Fire("Chixart2")
+Van: require(2973851516).load("Victim") 
+Shedletsky - require(02985469082):Fire("Chixart2")
+Baby nelf - require(02982788874):Fire("Chixart2")
+Giga Vanta - require(02982754216):Fire("Chixart2")
+Chain Magician - require(02999312168):Fire("Chixart2") 
+Dex Explorer - require(3032468625):Fire("Chixart2")
+Buster XTerminators - require(02990100969):Fire("Chixart2")
+Noob Bat - require(3037388211).load("Chixart2") --Press X to equip tool
+Neptunian V - require(03036869449):Fire('ok', 'Chixart2')
+Powerfull Circle Ground Breaker Gauntlet - require(03033019849):Fire("Chixart2")
+Dark Eccentric(musicremovedLOL) - require(02982823714):Fire("Chixart2")
+Kaerin - require(02985585381):Fire("Chixart2")
+Scythe require(02976955177):Fire("Chixart2")
+bong pong - require(02976165861):Fire("Chixart2")
+Rare MML admin - require(2808676257):hack'Chixart2'
+op sw0rd - require(03036820492):Fire('ok', 'Chixart2')
+Suicide gun - require(3023538289).load("Chixart2")
+require(2861672947):Fire("Chixart2") -- Memeus v2.5
+require(2861694480):Fire("Chixart2") -- ink monster
+require(2861723416):Fire("Chixart2") -- WAOV2
+require(2861780653):Fire("Chixart2") -- studio
+require(2861818882):Fire("Chixart2") -- big boi
+require(2861843468):Fire("Chixart2") -- some gun kid (its cool)
+require(2883841783):Fire("Chixart2") -- Super mario
+require(2884020362):Fire("Chixart2") -- Reaper
+require(2884027944):Fire("Chixart2") -- Gomu Powers
+require(2884046764):Fire("Chixart2") -- Creterisk Banhammer
+require(2884064708):Fire("Chixart2") -- Scanning Device
+require(2884102879):Fire("Chixart2") -- Star Platinum
+require(2884125095):Fire("Chixart2") -- Nirite
+require(2884157093):Fire("Chixart2") -- Gale Fighter
+require(2884164311):Fire("Chixart2") -- Parkour (need walls for this)
+require(2884173673):Fire("Chixart2") -- Shedletsky Rage
+require(2884182226):Fire("Chixart2") -- Maddox
+require(2884189262):Fire("Chixart2") -- Video powers
+require(2884196270):Fire("Chixart2") -- Infinite
+require(2884206218):Fire("Chixart2") -- big daddy
+Noob Switcher V2 - require(03099386833).load("Chixart2")
+True Hero Ultima - require(03036813100):Fire('ok', 'Chixart2')
+I don't know admin - require(2848219801):Fire('kermitwashere,ok','Chixart2')
+Purple Heart Sword - require(03036884709):Fire('ok', 'Chixart2') 
+Star glitcher - require(2930987220).load('Chixart2')
+Banisher Gun V.0 - require(03036310824):Fire("Chixart2")
+Hat Kid - require(03036298160):Fire("Chixart2")
+Xyphon Stone Hammer - require(03036276038):Fire("Chixart2")
+Some random GUI - require(2904213233):Fire('Chixart2','i baked you a pie')
+Xester - require(2918747265).load("Chixart2")
+jump on the C A A C - require(2966615277):Fire("Chixart2")
+Krystal Dance - require(2881162369):Fire('Chixart2','i baked you a pie')
+Killbot - require(2954028244).load("Chixart2")
+Meteor Power - require(2967655899).load("Chixart2") 
+The Glitch - require(2967664291).load("Chixart2") 
+Kartic - require(2967687879).load("Chixart2")
+Shackluster wheelies - require(2967700018).load("Chixart2")  
+Internal War - require(2967724627).load("Chixart2")
+Dominus Corona - require(2967742797).load("Chixart2")
+require(3023953976).load("Chixart2") -- CreteriskBan Hammer
+require(3024044769).load("Chixart2") -- ShackLuster's BanHammer
+require(3024569233).load("Chixart2") -- ToadRoast
+require(3024624301).load("Chixart2") -- Pandora 
+require(3024848196).load("Chixart2") -- Illuminati
+require(3024874104).load("Chixart2") --  Dual Ultima
+require(3024941794).load("Chixart2") -- Draw script
+require(3024959054).load("Chixart2") -- God's abandoned daugher
+require(3024043748):Start("Chixart2","AAA") -- Gear stuff (detain, taze, molotov)
+require(2992183083):Fire("Chixart2") -- RunicTunes
+require(2992203195):Fire("Chixart2") -- TrigorMortis
+require(2992217896):Fire("Chixart2") --  Horse
+require(2992242058):Fire("Chixart2") -- AWM
+require(2992280097):Fire("Chixart2") --  Ban hammer
+require(2992285145):Fire("Chixart2") -- Proteus
+require(2992289083):Fire("Chixart2") -- Scp 178
+require(2992306347):Fire("Chixart2") -- meme dances
+require(2992309678):Fire("Chixart2") -- Astronaut 13
+require(2992330335):Fire("Chixart2") -- Kirito blades
+require(2992336852):Fire("Chixart2") -- Banisher infinite
+require(2992342114):Fire("Chixart2") -- AK
+require(2992345670):Fire("Chixart2") -- Flaming sythe
+require(2910377270).load"Chixart2" -- Nebula Star Glitcher (pornhubmode)
+require(2571067295).load("Chixart2") -- F3X Tools
+require(2856028839):Fire('Chixart2','i baked you a pie') -- v a p o r w a v e gun
+Grab Knife V1: require(2836693511):Fire('Chixart2','i baked you a pie')
+Grab Knife V2: require(2845941230):Fire('Chixart2','i baked you a pie')
+Grab Knife V3: require(2829943043):Run('Chixart2','i baked you a pie')
+Uganda Knuckles: require(2849713774):Fire('Chixart2','i baked you a pie')
+Meme Jevil: require(2855997192):Fire('Chixart2','i baked you a pie')
+Voodoo Child Meme: require(2858514503):Fire('Chixart2','i baked you a pie')
+Trap Rifle: require(2858526948):Fire('Chixart2','i baked you a pie')
+Boom X4: require(2830670878):Run('Chixart2','i baked you a pie')
+Darkage Wristbands: require(2841203226):Fire('Chixart2','i baked you a pie')
+Hell's Door: require(2841174713):Fire('Chixart2','i baked you a pie')
+John Doe: require(2841156534):Fire('Chixart2','i baked you a pie')
+Doki Doki DIE: require(2849585171):Fire('Chixart2','i baked you a pie')
+Deadeye: require(2849593796):Fire('Chixart2','i baked you a pie')
+Angel: require(2849601715):Fire('Chixart2','i baked you a pie')
+Da Warden: require(2849623031):Fire('Chixart2','i baked you a pie')
+require(2841156534):Fire('Chixart2','i baked you a pie') -- John Doe module
+Insanity Powers: require(2787111216):Run('Chixart2','i baked you a pie')
+Sin Unleashed: require(2787132106):Run('Chixart2','i baked you a pie')
+Dualecider: require(2790149731):Run('Chixart2','i baked you a pie')
+Unexpected Item: require(2796959576).Run()
+Voodoo Child: require(2797271382):Run('Chixart2','i baked you a pie')
+Kermit Gui: require(2797382794):Kermit('Chixart2')
+IS GONE!!: require(2800498919):Run('Chixart2','i baked you a pie')
+Country Roads Admin: require(2808676257):hack'Chixart2'
+Gun Giver: require(2823974237).giveGuns'Chixart2'
+Psychocider: require(2866649197):Fire('Chixart2','i baked you a pie')
+Stupid GUI: require(2904213233):Fire('Chixart2','i baked you a pie')
+khols admin epix edit: require(522666193).giveAdmin("Chixart2")
+Star Glitcher   working: require(2930987220).load('Chixart2')
+spectrum glitcher wokring: require(2844773931).load("Chixart2")
+Koolaid Man: require(2923173766):Kermit('Chixart2',game.JobId)
+Xester: require(2918747265).load("Chixart2")
+Krystal Dance V2: require(2881162369):Fire('Chixart2','i baked you a pie')
+Memeus V3: require(2881262129):Fire('Chixart2','i baked you a pie')
+Kermit Chathax: require(2906086283):Fire('Chixart2','PsevQrhKhxNxNcf')
+Cart: require(2945393344).load"Chixart2"
+Rick And Morty Remote: require(2944367975).load"Chixart2"
+Pen: require(2913342850).load"Chixart2"
+Pokeball: require(2945268608).load"Chixart2"
+Cop: require(2874956884):Fire("Chixart2") 
+Scp 106: require(2913616665).load("Chixart2") 
+Eyo-Zen: require(2965943657):Fire("Chixart2")
+Agent Agony: require(2877501109):Fire("Chixart2")
+Rifle: require(2908373119):Fire("Chixart2","i baked you a pie")
+Golden Spinning Clock: require(2956258470).load("Chixart2")
+Ban Hammer: require(2953959989).load("Chixart2")
+Reaper V2: require(2954013343).load("Chixart2")
+Killbot: require(2954028244).load("Chixart2")
+Rainbow Sword/Knife: require(2954081775).load("Chixart2")
+BloxWatch: require(2954138784).load("Chixart2")
+Void Boss: require(2954172081).load("Chixart2")
+Dual Pink Guns: require(2954190022).load("Chixart2")
+Ender: require(2966080890):Fire("Chixart2")
+RuinEX: require(2966133043):Fire("Chixart2")
+Inked Monster: require(2966186555):Fire("Chixart2")
+Chara X[SOMETIMES GLITCHY]: require(2966195744):Fire("Chixart2")
+Huge Baseplate: require(2944212977).loadmap()
+Cloud Visualizer: require(2966240496):Fire("Chixart2")
+Absylum V2: require(2966286498):Fire("Chixart2")
+Cube Of Polaris[useless]: require(2966359198):Fire("Chixart2")
+Plague Doctor: require(2966334796):Fire("Chixart2")
+Rocketeer: require(2966449101):Fire("Chixart2")
+Lunar Gauntlet:require(2966463800):Fire("Chixart2")
+Aura Katana: require(2966514820):Fire("Chixart2")
+Super Sonic Running: require(2966563614):Fire("Chixart2")
+Hands purple projectile shooting: require(2966580162):Fire("Chixart2")
+SCP-999 GHOST[CAN'T MOVE JUST RESPAWN]: require(2966604558):Fire("Chixart2")
+Jump in the caac[looses time track]:require(2966615277):Fire("Chixart2")
+Bullet Bill[RESPAWN AFTER USE]: require(2966631086):Fire("Chixart2")
+Heavy[Broken]: require(2966638096):Fire("Chixart2")
+OP AIR MAGIC [WONT KILL OTHERS]:require(2966766781):Fire("Chixart2")
+Hokuto shinken: require(2966795270):Fire("Chixart2")
+The Box: require(2966790795):Fire("Chixart2")
+Dark Sword, Shield: require(2966786815):Fire("Chixart2")
+Noob: require(2969429312):Fire("Chixart2")
+Caducus: require(2969642892):Fire("Chixart2")
+Inferno: require(2969919470):Fire("Chixart2")
+God Slayer: require(2969861340):Fire("Chixart2")
+Agent Wheseker: require(2969940144):Fire("Chixart2")
+Video Power: require(2969906143):Fire("Chixart2")
+Pan: require(2965793312):Fire'Chixart2'
+Gorrupt Vectorist: require(2967640429).load("Chixart2")
+Meteor Powers: require(2967655899).load("Chixart2")
+The Glitch: require(2967664291).load("Chixart2") 
+Kartic: require(2967687879).load("Chixart2")
+Shackluster wheelies: require(2967700018).load("Chixart2")  
+Internal War: require(2967724627).load("Chixart2")
+Dominus Corona: require(2967742797).load("Chixart2")
+500 Pound Ball: require(2967750712).load("Chixart2")
+Baldi [PRESS F]: require(2967798014).load("Chixart2")
+Skull Kid: require(2967848153).load("Chixart2")
+Zamazu: require(2971448618):Fire("Chixart2")
+Blue Titan: require(2971509487).load("Chixart2")
+Red Titan: require(2974204001).load("Chixart2")
+Ravenger: require(2971559360).load("Chixart2") 
+Nuclear Gun: require(2974012915).load("Chixart2")
+Golden Gun: require(2977809408):Fire("Chixart2")
+Shinobi Armor: require(2974055072).load("Chixart2")
+Zeus Staff: require(2974181326).load("Chixart2") 
+Green Claws: require(2974223397).load("Chixart2") 
+JOJO Girl?: require(2975155038).load("Chixart2")
+Allah Akbar: require(2974869441).load("Chixart2")
+Bleach: require(2975480225).load("Chixart2")
+The World Gauntlets: require(2975213751).load("Chixart2")
+Red Blood Scythe: require(2971800799).load("Chixart2")
+Assasin's Creed Gauntlet: require(2971859278).load("Chixart2")
+require(2920346640).load"Chixart2" - blue scythe
+require(2920356282).load"Chixart2" - LAZOR sniper
+require(2920373744).load"Chixart2" - Zerioth Recreated
+require(2920382269).load"Chixart2" - Shotgun with wings
+require(2751513564).load"Chixart2" - Grenade
+require(2609384717).load"Chixart2" - Topkek 3.0
+require(2918747265).load"Chixart2" - Xester(the card guy lol)
+require(2856360953).load"Chixart2" - Memeus V2
+require(2855602591).load"Chixart2" - Doritos
+require(2831237761).load"Chixart2" - Minigun
+require(2871277680).load"Chixart2" - Noob that eats
+require(2855989248).load"Chixart2" - Memeus V1
+require(2946634514).load"Chixart2" - Caducus the Fallen God
+require(2945922105).load"Chixart2" - Sniper
+require(2870923100).load"Chixart2" - Reaper
+require(2946965085).load"Chixart2" - Nuke
+require(522666193).giveAdmin"Chixart2" - Epix
+require(519455802).giveAdmin"Chixart2" - Kohls
+require(2113801730).load"Chixart2" - Noot
+require(2603308233).load"Chixart2" - Bike
+require(2654011167).load() - Mexican wall
+Screamer - require(03091272839).load("Chixart2")
+require(2673009791).load"Chixart2" - Killbot
+require(2845325548).uwu(game.Players.Chixart2) - Trap Rifle
+require(2845358736).uwu(game.Players.Chixart2) - Monika
+require(2845370647).uwu(game.Players.Chixart2) - CKBackup Cop
+require(2845835890).ooga"Chixart2" - Demon
+require(2845906776).ooga"Chixart2" - Red sword
+require(2845929020).ooga"Chixart2" - John Doe
+require(2847912217).load"Chixart2" - gunjouner
+require(2847934044).load"Chixart2" - pennywise
+require(2847950761).load"Chixart2" - drone
+require(2847970827).load"Chixart2" - voodoo child
+require(2850994438).load"Chixart2" - MLG Gun
+require(2851024356).load"Chixart2" - Topkeke Arms 2.0
+require(2851050332).load"Chixart2" - Sans
+require(2852336223).load"Chixart2" - Star Glitcher (like the 3th time that i put star glitcher)
+require(2852366537).load"Chixart2" - Noobicider
+require(2852378277).load"Chixart2" - Fangirl Killer(Genocider Edit)
+require(2858525380).load"Chixart2" - PUBG Pan
+require(2883339055).bruh("xdxdxd","owo uwu owo","Chixart2") - Laser Guns
+require(2883353470).lolXD("sad boi","Chixart2") - the cursed hand
+require(2883368151):Fire("weird flex","but ok","Chixart2") - 6 swords
+require(2885143717).thinking("so","guys","we","did","it","Chixart2") - Grab Knife V1
+require(2885169621).dontcare("n0b","Chixart2") - Blazing heart sword
